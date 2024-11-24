@@ -2,7 +2,7 @@
 
 *This assembly program (ASB002_BR.asm) emulates the operation of a four-floor elevator using a PIC16F84 microcontroller*. The program manages the elevator's position, door status, and movement indications displayed on an LCD screen. It integrates input from push-button switches and provides visual indication through LEDs to represent the door's state (open or closed).
 
-[Read more about Theory of Control and Control Systems (in Spanish)](./theory-of-control.md)
+[Read more about Theory of Control and Control Systems (in Spanish)](./control-systems.md)
 
 ## PIC16F84
 
